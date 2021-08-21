@@ -6,3 +6,5 @@ Remember, You must change cloudflare api key, zone Id and email address in ajax.
 - Jquery
 - Ajax
 - Php
+
+![alt text](https://raw.githubusercontent.com/onderakbulut/Clouflare-cache-cleaner/main/screenshot.png)
